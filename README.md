@@ -32,4 +32,4 @@ La aplicación utiliza una sola página HTML y divide progrsivamente la lógica 
 
 ## Versión actual
 
-v0.5.0 - Aplicar Ver mas para detalles del Pais y agregar Mapa interactivo
+v0.6.0 - Aplicar Ver mas para detalles del Pais y agregar Mapa interactivo
