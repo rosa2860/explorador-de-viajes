@@ -31,4 +31,4 @@ La aplicación utiliza una sola página HTML y divide progrsivamente la lógica 
 
 ## Versión actual
 
-v0.2.0 - Estructura inicial, Tailwind CSS y configuración del proyecto
+v0.3.0 - Estructura inicial, Tailwind CSS y configuración del proyecto
